@@ -391,33 +391,23 @@ The command is scheduled to run automatically each day.
 
 ## Screenshots
 
-### Landing Page
+### Equipment Store
 
-> Screenshot coming soon.
-
-### Customer Equipment Store
-
-> Screenshot coming soon.
-
-### Rental Request
-
-> Screenshot coming soon.
-
-### Customer Rental History
-
-> Screenshot coming soon.
+![Equipment Store](docs/screenshots/customer-store.png)
 
 ### Admin Dashboard
 
-> Screenshot coming soon.
+![Admin Dashboard](docs/screenshots/admin-dashboard.png)
 
 ### Rental Management
 
-> Screenshot coming soon.
+![Rental Management](docs/screenshots/admin-rentals.png)
 
----
+## Demo
 
-## Demo Workflow
+The following demonstrates the complete rental request and approval workflow.
+
+![Rental workflow](docs/screenshots/rental-store-flow.gif)
 
 A typical demonstration can follow this sequence:
 
