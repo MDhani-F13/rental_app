@@ -393,21 +393,21 @@ The command is scheduled to run automatically each day.
 
 ### Equipment Store
 
-![Equipment Store](docs/screenshots/customer-store.png)
+![Equipment Store](docs/screenshots/02-customer-store)
 
 ### Admin Dashboard
 
-![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+![Admin Dashboard](docs/screenshots/05-admin-dashboard.png)
 
 ### Rental Management
 
-![Rental Management](docs/screenshots/admin-rentals.png)
+![Rental Management](docs/screenshots/06-admin-rentals.png)
 
 ## Demo
 
 The following demonstrates the complete rental request and approval workflow.
 
-![Rental workflow](docs/screenshots/rental-store-flow.gif)
+![Rental workflow](docs/screenshots/Rental-Store-Flow.gif)
 
 A typical demonstration can follow this sequence:
 
