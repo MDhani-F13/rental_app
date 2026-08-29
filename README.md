@@ -393,7 +393,7 @@ The command is scheduled to run automatically each day.
 
 ### Equipment Store
 
-![Equipment Store](docs/screenshots/02-customer-store)
+![Equipment Store](docs/screenshots/02-customer-store.png)
 
 ### Admin Dashboard
 
